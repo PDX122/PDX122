@@ -1,16 +1,27 @@
-## Hi there 👋
+# PDX
 
-<!--
-**PDX122/PDX122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things, breaking things, and occasionally making them work.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Kraftify** — Everything hosting platform
+- **HyperGravel** — Minecraft Java Edition reverse proxy
+
+## What I Work With
+
+- Java
+- Minecraft infrastructure
+- Linux
+- Server infrastructure
+- Web development
+- AI / automation
+
+## Currently Building
+
+**Kraftify**
+
+An infrastructure platform focused on making hosting simpler and more accessible.
+
+## GitHub Stats
+
+![PDX's GitHub stats](https://github-readme-stats.vercel.app/api?username=PDX&show_icons=true&theme=dark)
