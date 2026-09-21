@@ -53,9 +53,10 @@ Wire-compatible with Velocity while providing additional network infrastructure 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PDX122&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDX122&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=PDX122&show_icons=true&theme=dark" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDX122&layout=compact&theme=dark" height="180" alt="Top Languages">
 </p>
+
 ## Top Languages
 
 <p align="center">
