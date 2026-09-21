@@ -48,11 +48,16 @@ Wire-compatible with Velocity while providing additional network infrastructure 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PDX122&show_icons=true&theme=dark" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDX122&layout=compact&theme=dark" height="180" alt="Top Languages">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="49%" alt="GitHub profile details">
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%" alt="Repositories per language">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Most committed languages">
+  <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub statistics">
 </p>
 
 ## Currently Building
