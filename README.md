@@ -4,8 +4,17 @@
 
 **Developer · Infrastructure · Minecraft · Open Source**
 
-[![Followers](https://img.shields.io/github/followers/PDX122?style=flat-square\&label=Followers)](https://github.com/PDX122)
-[![Stars](https://img.shields.io/github/stars/PDX122?style=flat-square\&label=Stars)](https://github.com/PDX122)
+<p>
+  <a href="https://github.com/PDX122">
+    <img src="https://img.shields.io/github/followers/PDX122?style=flat-square&label=Followers" />
+  </a>
+  <a href="https://github.com/PDX122?tab=repositories">
+    <img src="https://img.shields.io/github/repos/PDX122?style=flat-square&label=Repositories" />
+  </a>
+  <a href="https://github.com/PDX122?tab=stars">
+    <img src="https://img.shields.io/github/stars/PDX122?style=flat-square&label=Stars" />
+  </a>
+</p>
 
 </div>
 
@@ -15,19 +24,52 @@
 
 I build software, infrastructure, and Minecraft projects.
 
-Currently working on Kraftify and HyperGravel.
+My current work is focused on building scalable infrastructure and tools from the ground up.
 
 ---
 
 ## Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### Kraftify
 
-Everything hosting platform focused on infrastructure, web hosting, game hosting, and AI.
+An everything hosting platform focused on infrastructure, web hosting, game hosting, and AI.
+
+[View Project](https://github.com/KraftifyFOSS)
+
+</td>
+<td width="50%">
 
 ### HyperGravel
 
-High-performance Minecraft reverse proxy designed to sit in front of multiple Paper backends.
+A high-performance Minecraft reverse proxy designed to sit in front of multiple Paper backends.
+
+[View Repository](https://github.com/KraftifyFOSS/Hypergravel-Edge)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Currently Building
+
+```text
+Kraftify
+├── Infrastructure
+├── Web Hosting
+├── Game Hosting
+└── AI
+
+HyperGravel
+├── Minecraft Proxy
+├── Backend Routing
+├── Protocol Handling
+└── Network Infrastructure
+```
 
 ---
 
@@ -39,16 +81,24 @@ High-performance Minecraft reverse proxy designed to sit in front of multiple Pa
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" />
+  <a href="https://github.com/PDX122?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/PDX122?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-View-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github/3-stats.svg" />
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" />
-</p>
+---
+
+## Open Source
+
+I build and maintain projects intended to be useful to other developers and server operators.
+
+Most of my work revolves around infrastructure, Minecraft, developer tooling, and experimentation with new ideas.
 
 ---
 
