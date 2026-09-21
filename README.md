@@ -13,11 +13,11 @@ Building software, infrastructure, and Minecraft-related projects.
 
 ## What I Do
 
-* Build **Minecraft infrastructure and networking software**
-* Work with **Java, Python, and web technologies**
-* Build and manage **servers and infrastructure**
-* Experiment with **AI, automation, and developer tools**
-* Create open-source projects
+* **Minecraft infrastructure & networking**
+* **Java, Python & web development**
+* **Server infrastructure & management**
+* **AI, automation & developer tools**
+* **Open-source software**
 
 ## Projects
 
@@ -50,17 +50,9 @@ Wire-compatible with Velocity while providing additional network infrastructure 
 
 ## GitHub Stats
 
-<h2 align="center">GitHub Stats</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PDX122&show_icons=true&theme=dark" height="180" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDX122&layout=compact&theme=dark" height="180" alt="Top Languages">
-</p>
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDX122&layout=compact&theme=dark&hide_border=true" alt="PDX122 top languages">
 </p>
 
 ## Currently Building
