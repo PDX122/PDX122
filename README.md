@@ -24,34 +24,21 @@
 
 I build software, infrastructure, and Minecraft projects.
 
-My current work is focused on building scalable infrastructure and tools from the ground up.
+Currently focused on building scalable infrastructure, developer tools, and products from the ground up.
 
 ---
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%">
+**Kraftify**
+Everything hosting platform focused on infrastructure, web hosting, game hosting, and AI.
 
-### Kraftify
+[GitHub Organization](https://github.com/KraftifyFOSS)
 
-An everything hosting platform focused on infrastructure, web hosting, game hosting, and AI.
+**HyperGravel**
+High-performance Minecraft reverse proxy and network infrastructure.
 
-[View Project](https://github.com/KraftifyFOSS)
-
-</td>
-<td width="50%">
-
-### HyperGravel
-
-A high-performance Minecraft reverse proxy designed to sit in front of multiple Paper backends.
-
-[View Repository](https://github.com/KraftifyFOSS/Hypergravel-Edge)
-
-</td>
-</tr>
-</table>
+[Repository](https://github.com/KraftifyFOSS/Hypergravel-Edge)
 
 ---
 
@@ -81,6 +68,12 @@ HyperGravel
 
 ---
 
+## Open Source
+
+I build and maintain projects around infrastructure, Minecraft, developer tooling, and experimentation.
+
+---
+
 ## GitHub
 
 <p align="center">
@@ -91,14 +84,6 @@ HyperGravel
     <img src="https://img.shields.io/badge/Starred-View-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## Open Source
-
-I build and maintain projects intended to be useful to other developers and server operators.
-
-Most of my work revolves around infrastructure, Minecraft, developer tooling, and experimentation with new ideas.
 
 ---
 
