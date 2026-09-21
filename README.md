@@ -1,54 +1,86 @@
-# PDX122
-
-Building software, infrastructure, and Minecraft-related projects.
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,linux,git,github,docker" alt="Skills">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=PDX122&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="PDX122">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/PDX122?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/PDX122?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars">
+  <b>Developer • Infrastructure • Minecraft • Open Source</b>
 </p>
 
-## What I Do
+<p align="center">
+  Building software, infrastructure, and things that probably shouldn't work.
+</p>
 
-* **Minecraft infrastructure & networking**
-* **Java, Python & web development**
-* **Server infrastructure & management**
-* **AI, automation & developer tools**
-* **Open-source software**
+<p align="center">
+  <a href="https://github.com/PDX122">
+    <img src="https://img.shields.io/github/followers/PDX122?style=for-the-badge&logo=github&label=Followers" alt="Followers">
+  </a>
+  <a href="https://github.com/PDX122?tab=repositories">
+    <img src="https://img.shields.io/github/stars/PDX122?style=for-the-badge&logo=github&label=Stars" alt="Stars">
+  </a>
+</p>
+
+---
+
+## About
+
+I'm PDX122. I build software with a focus on **Minecraft infrastructure, networking, servers, automation, and developer tools**.
+
+Most of my projects start as an idea that probably shouldn't be possible and turn into something that somehow works.
+
+## What I Work On
+
+```text
+Infrastructure
+├── Server systems
+├── Networking
+├── Proxies
+└── Hosting
+
+Development
+├── Java
+├── Python
+├── JavaScript
+└── Web
+
+Other
+├── AI
+├── Automation
+├── Minecraft
+└── Open Source
+```
 
 ## Projects
 
-### Kraftify
+### [Kraftify](https://github.com/KraftifyFOSS)
 
 An everything hosting platform focused on making infrastructure easier to use.
 
-### HyperGravel
+**Working on:** hosting • infrastructure • AI • developer tools
+
+### [HyperGravel](https://github.com/KraftifyFOSS/Hypergravel-Edge)
 
 A Minecraft: Java Edition reverse proxy designed to sit in front of multiple Paper backends.
 
 Wire-compatible with Velocity while providing additional network infrastructure and services.
 
+**Built with:** Java • Netty • Minecraft protocol
+
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,linux,git,github,docker,gradle" alt="Tech Stack">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Java-21%2B-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle">
 </p>
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="./profile-summary-card-output/github/0-profile-details.svg" width="49%" alt="GitHub profile details">
@@ -60,7 +92,18 @@ Wire-compatible with Velocity while providing additional network infrastructure 
   <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub statistics">
 </p>
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PDX122&theme=github-compact&hide_border=true" alt="GitHub activity graph">
+</p>
+
 ## Currently Building
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Kraftify-In%20Development-111111?style=for-the-badge" alt="Kraftify">
+  <img src="https://img.shields.io/badge/⚡_HyperGravel-In%20Development-111111?style=for-the-badge" alt="HyperGravel">
+</p>
 
 ```text
 Kraftify
@@ -68,10 +111,30 @@ Kraftify
 ├── Hosting
 ├── AI
 └── Developer Tools
+
+HyperGravel
+├── Proxy
+├── Networking
+├── Protocol
+└── Server Infrastructure
 ```
+
+## Open Source
+
+I build and experiment with open-source software, particularly around **Minecraft networking and infrastructure**.
+
+If something here is useful, feel free to use it, fork it, or contribute.
 
 ---
 
 <p align="center">
-  <i>Building things that probably shouldn't work, until they do.</i>
+  <img src="https://komarev.com/ghpvc/?username=PDX122&style=for-the-badge&color=grey" alt="Profile views">
+</p>
+
+<p align="center">
+  <i>Build it. Break it. Fix it. Ship it.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:111111&height=100&section=footer" alt="">
 </p>
