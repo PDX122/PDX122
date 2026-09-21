@@ -4,8 +4,8 @@
 
 **Developer · Infrastructure · Minecraft · Open Source**
 
-[![GitHub followers](https://img.shields.io/github/followers/PDX122?style=flat-square&label=Followers)](https://github.com/PDX122)
-[![GitHub stars](https://img.shields.io/github/stars/PDX122?style=flat-square&label=Stars)](https://github.com/PDX122)
+[![Followers](https://img.shields.io/github/followers/PDX122?style=flat-square\&label=Followers)](https://github.com/PDX122)
+[![Stars](https://img.shields.io/github/stars/PDX122?style=flat-square\&label=Stars)](https://github.com/PDX122)
 
 </div>
 
@@ -15,21 +15,23 @@
 
 I build software, infrastructure, and Minecraft projects.
 
-Currently focused on **Kraftify** and **HyperGravel**.
+Currently working on Kraftify and HyperGravel.
 
 ---
 
 ## Projects
 
-### ⚡ Kraftify
-Everything hosting platform — infrastructure, web hosting, game hosting, and AI.
+### Kraftify
 
-### 🪨 HyperGravel
-A high-performance Minecraft reverse proxy designed to sit in front of multiple Paper backends.
+Everything hosting platform focused on infrastructure, web hosting, game hosting, and AI.
+
+### HyperGravel
+
+High-performance Minecraft reverse proxy designed to sit in front of multiple Paper backends.
 
 ---
 
-## Tech
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,linux,docker,gradle,git,github" />
@@ -37,7 +39,7 @@ A high-performance Minecraft reverse proxy designed to sit in front of multiple 
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="./profile-summary-card-output/github/0-profile-details.svg" />
