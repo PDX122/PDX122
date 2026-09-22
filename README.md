@@ -2,17 +2,26 @@
 
 # PDX122
 
-**Developer · Infrastructure · Minecraft · Open Source**
+**Infrastructure · Minecraft · Open Source · Systems**
 
 <p>
   <a href="https://github.com/PDX122">
-    <img src="https://img.shields.io/github/followers/PDX122?style=flat-square&label=Followers" />
+    <img src="https://img.shields.io/github/followers/PDX122?style=for-the-badge&label=Followers&logo=github" />
   </a>
   <a href="https://github.com/PDX122?tab=repositories">
-    <img src="https://img.shields.io/github/repos/PDX122?style=flat-square&label=Repositories" />
+    <img src="https://img.shields.io/github/repos/PDX122?style=for-the-badge&label=Repositories&logo=github" />
   </a>
   <a href="https://github.com/PDX122?tab=stars">
-    <img src="https://img.shields.io/github/stars/PDX122?style=flat-square&label=Stars" />
+    <img src="https://img.shields.io/github/stars/PDX122?style=for-the-badge&label=Stars&logo=github" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/KraftifyFOSS">
+    <img src="https://img.shields.io/badge/Kraftify-FOSS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://placement.lol/">
+    <img src="https://img.shields.io/badge/Portfolio-placement.lol-181717?style=for-the-badge&logo=firefox" />
   </a>
 </p>
 
@@ -20,75 +29,99 @@
 
 ---
 
-## About
+## `> whoami`
 
-I build software, infrastructure, and Minecraft projects.
+I build **infrastructure, developer tools, and Minecraft software**.
 
-Currently focused on building scalable infrastructure, developer tools, and products from the ground up.
+Currently building **Kraftify** — an infrastructure platform designed around hosting, compute, and AI.
 
----
-
-## Projects
-
-**Kraftify**
-Everything hosting platform focused on infrastructure, web hosting, game hosting, and AI.
-
-[GitHub Organization](https://github.com/KraftifyFOSS)
-
-**HyperGravel**
-High-performance Minecraft reverse proxy and network infrastructure.
-
-[Repository](https://github.com/KraftifyFOSS/Hypergravel-Edge)
+Previously worked on **OSLC.js** and various Minecraft infrastructure projects.
 
 ---
 
-## Currently Building
+## ⚡ Current Work
+
+### Kraftify
+
+**Everything hosting platform.**
 
 ```text
 Kraftify
 ├── Infrastructure
 ├── Web Hosting
 ├── Game Hosting
-└── AI
-
-HyperGravel
-├── Minecraft Proxy
-├── Backend Routing
-├── Protocol Handling
-└── Network Infrastructure
+├── AI
+└── Developer Tools
 ```
+
+→ [@KraftifyFOSS](https://github.com/KraftifyFOSS)
+
+### HyperGravel
+
+High-performance Minecraft networking infrastructure.
+
+```text
+HyperGravel
+├── Proxy
+├── Routing
+├── Protocol Handling
+├── Network Infrastructure
+└── Performance
+```
+
+→ [HyperGravel-Edge](https://github.com/KraftifyFOSS/Hypergravel-Edge)
 
 ---
 
-## Tech Stack
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,linux,docker,gradle,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,linux,docker,gradle,git,github&perline=9" />
 </p>
 
 ---
 
-## Open Source
+## 📊 GitHub
 
-I build and maintain projects around infrastructure, Minecraft, developer tooling, and experimentation.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PDX122&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDX122&layout=compact&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PDX122&hide_border=true" />
+</p>
 
 ---
 
-## GitHub
+## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/PDX122?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/PDX122?tab=stars">
-    <img src="https://img.shields.io/badge/Starred-View-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=PDX122&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+## 🌐 Links
+
+<p align="center">
+
+<a href="https://github.com/KraftifyFOSS">
+<img src="https://img.shields.io/badge/Kraftify-FOSS-181717?style=flat-square&logo=github" />
+</a>
+
+<a href="https://placement.lol/">
+<img src="https://img.shields.io/badge/Portfolio-placement.lol-181717?style=flat-square&logo=firefox" />
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-**Building things that scale.**
+`(●__●)`
+
+**Build it. Scale it. Ship it.**
 
 </div>
